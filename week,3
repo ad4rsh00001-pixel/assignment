@@ -1,0 +1,31 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My First Website</title>
+</head>
+<body>
+    <h1>Welcome to My Website</h1>
+
+    <!-- Navigation Menu -->
+    <nav>
+        <a href="index.html">Home</a> |
+        <a href="about.html">About</a> |
+        <a href="https://www.google.com"
+           target="_blank"
+           rel="noopener noreferrer">Google</a>
+    </nav>
+
+    <hr>
+
+    <h2>Introduction</h2>
+    <p>
+        Hello! My name is <strong>Alex</strong>.
+        I am learning <em>HTML</em> to create websites.
+    </p>
+
+    <hr>
+</body>
+</html>
